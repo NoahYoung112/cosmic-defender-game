@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Fast
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fast\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ width\ height\ speed
+comment1.target=Fast(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fast\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+numComments=4
